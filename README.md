@@ -111,6 +111,3 @@ http://localhost:[portNumber]/table
 This project is open for educational use.
 Bootstrap Admin 2 is under the [MIT license](https://github.com/StartBootstrap/startbootstrap-sb-admin-2.git).
 
-```
-
-
